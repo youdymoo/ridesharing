@@ -11,5 +11,6 @@ for dataEntry in tripData:
 		lng = segment[0]
 		lat = segment[1]
 		new_entry = '{}, {}'.format(lng, lat) + '\n'
+		output += new_entry
 output = output[:-1]
 print(output)
