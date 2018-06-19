@@ -16,6 +16,7 @@ def raw2csv(tripData):
 
 
 def raw2space(tripData):
+    output = ''
     for dataEntry in tripData:
         for segment in dataEntry['segments']:
             lng = segment[0]
@@ -24,7 +25,6 @@ def raw2space(tripData):
             output += new_entry
     output = output[:-1]
     print(output)
-
 
 def space2index(space_file):
     index_dict = {}
@@ -35,6 +35,14 @@ def space2index(space_file):
         else:
             index_dict[line] += 1
     return index_dict
+
+def center2csv(center_file):
+    output = 'lng, lat\n'
+    for line in center_file:
+        lng, lat = (line.strip()).split()
+        new_entry = '{}, {}'.format(lng, lat) + '\n'
+        output += new_entry
+    return output
 
 def index2neighbor(neighbor_file):
     count = 0
@@ -82,6 +90,13 @@ def main():
         for key in index_dict.keys():
             index_file.write(str(key)+'\n')
         index_file.close()
+    elif args[0] == '--center':
+        center_file = open('data/center/tripData-center-complete.txt', 'r')
+        output = center2csv(center_file)
+        center_file.close()
+        center_csv =  open('data/center/tripData-center-complete.csv', 'w')
+        center_csv.write(output)
+        center_csv.close()
     elif args[0] == '--neighbor':
         neighbor_file = open('data/neighbor/tripData-neighbor.txt', 'r')
         neighbor_dict = index2neighbor(neighbor_file)
