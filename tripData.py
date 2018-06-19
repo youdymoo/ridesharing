@@ -26,6 +26,7 @@ def raw2space(tripData):
     output = output[:-1]
     print(output)
 
+
 def space2index(space_file):
     index_dict = {}
     for line in space_file:
@@ -36,6 +37,7 @@ def space2index(space_file):
             index_dict[line] += 1
     return index_dict
 
+
 def center2csv(center_file):
     output = 'lng,lat\n'
     for line in center_file:
@@ -43,6 +45,7 @@ def center2csv(center_file):
         new_entry = '{},{}'.format(lng, lat) + '\n'
         output += new_entry
     return output
+
 
 def index2neighbor(neighbor_file):
     count = 0
@@ -60,6 +63,7 @@ def index2neighbor(neighbor_file):
             neighbor_list.append(line.strip())
             count += 1
     return neighbor_dict       
+
 
 def main():
     args = sys.argv[1:]
@@ -106,6 +110,7 @@ def main():
         r = json.dumps(neighbor_dict, sort_keys=True, indent=4)
         neighbor_json.write(str(r))
         neighbor_json.close()
+
 
 if __name__ == '__main__':
     main()
