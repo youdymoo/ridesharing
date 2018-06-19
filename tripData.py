@@ -4,12 +4,12 @@ import urllib.request
 import sys
 
 def raw2csv(tripData):
-    output = 'lng, lat\n'
+    output = 'lng,lat\n'
     for dataEntry in tripData:
         for segment in dataEntry['segments']:
             lng = segment[0]
             lat = segment[1]
-            new_entry = '{}, {}'.format(lng, lat) + '\n'
+            new_entry = '{},{}'.format(lng, lat) + '\n'
             output += new_entry
     output = output[:-1]
     print(output)
@@ -37,10 +37,10 @@ def space2index(space_file):
     return index_dict
 
 def center2csv(center_file):
-    output = 'lng, lat\n'
+    output = 'lng,lat\n'
     for line in center_file:
         lng, lat = (line.strip()).split()
-        new_entry = '{}, {}'.format(lng, lat) + '\n'
+        new_entry = '{},{}'.format(lng, lat) + '\n'
         output += new_entry
     return output
 
