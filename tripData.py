@@ -81,32 +81,39 @@ def main():
     elif args[0] == '--space':
         raw2space(tripData)
     elif args[0] == '--index':
-        space_file = open('data/index/tripData-index-complete.txt', 'r')
+        #space_file = open('data/index/tripData-index-complete.txt', 'r')
+        space_file = open('data/sandbox/NYCdata-index-complete.txt', 'r')
         index_dict = space2index(space_file)
         space_file.close()
 
-        index_json = open('data/index/tripData-index.json', 'w')
+        #index_json = open('data/index/tripData-index.json', 'w')
+        index_json = open('data/sandbox/tripData-index.json', 'w')
         r = json.dumps(index_dict, sort_keys=True, indent=4)
         index_json.write(str(r))
         index_json.close()
 
-        index_file = open('data/index/tripData-index.txt', 'w')
+        #index_file = open('data/index/tripData-index.txt', 'w')
+        index_file = open('data/sandbox/NYCdata-index.txt', 'w')
         for key in index_dict.keys():
             index_file.write(str(key)+'\n')
         index_file.close()
     elif args[0] == '--center':
-        center_file = open('data/center/tripData-center-complete.txt', 'r')
+        # center_file = open('data/center/tripData-center-complete.txt', 'r')
+        center_file = open('data/sandbox/NYCdata-center-complete.txt', 'r')
         output = center2csv(center_file)
         center_file.close()
-        center_csv =  open('data/center/tripData-center-complete.csv', 'w')
+        #center_csv =  open('data/center/tripData-center-complete.csv', 'w')
+        center_csv =  open('data/sandbox/NYCdata-center-complete.csv', 'w')
         center_csv.write(output)
         center_csv.close()
     elif args[0] == '--neighbor':
-        neighbor_file = open('data/neighbor/tripData-neighbor.txt', 'r')
+        # neighbor_file = open('data/neighbor/tripData-neighbor.txt', 'r')
+        neighbor_file = open('data/sandbox/NYCdata-neighbor.txt', 'r')
         neighbor_dict = index2neighbor(neighbor_file)
         neighbor_file.close()
         
-        neighbor_json = open('data/neighbor/tripData-neighbor.json', 'w')
+        # neighbor_json = open('data/neighbor/tripData-neighbor.json', 'w')
+        neighbor_json = open('data/sandbox/NYCdata-neighbor.json', 'w')
         r = json.dumps(neighbor_dict, sort_keys=True, indent=4)
         neighbor_json.write(str(r))
         neighbor_json.close()
