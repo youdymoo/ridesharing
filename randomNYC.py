@@ -34,5 +34,5 @@ for i in range(len(data['features'])):
     polygon = shape(data['features'][i]['geometry'])
     print(data['features'][i]['properties']['name'], 'added')
     complete_space_file = open('data/random/NYCdata-random-complete.txt', 'a')
-    complete_space_file.write(raw2space(generate_random(polygon.area * 1e7, polygon)))
+    complete_space_file.write(raw2space(generate_random(polygon.area * 1e8, polygon)))
     complete_space_file.close()
