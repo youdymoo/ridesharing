@@ -1,8 +1,8 @@
 {
     "features": [
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -34,19 +34,19 @@
                             40.731248045
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Tribeca-1",
-                "id": 1,
                 "index": "89f05ab6e9bffff",
+                "id": 1,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -78,19 +78,19 @@
                             40.714543018
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-1",
-                "id": 2,
+                "name": "Lower East Side-9",
                 "index": "89f05ab6a8fffff",
+                "id": 2,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -122,19 +122,19 @@
                             40.722556164
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Battery Park City-1",
-                "id": 3,
                 "index": "89f05ab612bffff",
+                "id": 3,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -166,19 +166,19 @@
                             40.767327957
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-1",
-                "id": 4,
                 "index": "89f05ab412fffff",
+                "id": 4,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -210,19 +210,19 @@
                             40.750230662
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-1",
-                "id": 5,
                 "index": "89f05ab6ec3ffff",
+                "id": 5,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -254,19 +254,19 @@
                             40.784611641
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-2",
-                "id": 6,
                 "index": "89f05ab4e13ffff",
+                "id": 6,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -298,19 +298,19 @@
                             40.77840587
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-3",
-                "id": 7,
                 "index": "89f05ab413bffff",
+                "id": 7,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -342,19 +342,19 @@
                             40.753248874
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Murray Hill-1",
-                "id": 8,
                 "index": "89f05ab6a53ffff",
+                "id": 8,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -386,19 +386,19 @@
                             40.841261774
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-1",
-                "id": 9,
                 "index": "89f05ab5d8fffff",
+                "id": 9,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -430,19 +430,19 @@
                             40.758677749
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-2",
-                "id": 10,
+                "name": "Midtown-11",
                 "index": "89f05ab4137ffff",
+                "id": 10,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -474,19 +474,19 @@
                             40.876494263
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-1",
-                "id": 11,
                 "index": "89f05ab58a7ffff",
+                "id": 11,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -518,19 +518,19 @@
                             40.810859418
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-3",
-                "id": 12,
+                "name": "Upper West Side-23",
                 "index": "89f05ab41c3ffff",
+                "id": 12,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -562,19 +562,19 @@
                             40.849870903
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-2",
-                "id": 13,
                 "index": "89f05ab5d03ffff",
+                "id": 13,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -606,19 +606,19 @@
                             40.741360578
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-4",
-                "id": 14,
+                "name": "Kips Bay-2",
                 "index": "89f05ab6a7bffff",
+                "id": 14,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -650,19 +650,19 @@
                             40.750021958
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-5",
-                "id": 15,
+                "name": "Midtown-12",
                 "index": "89f05ab41a7ffff",
+                "id": 15,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -694,19 +694,19 @@
                             40.739934302
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "West Village-1",
-                "id": 16,
                 "index": "89f05ab6ec7ffff",
+                "id": 16,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -738,19 +738,19 @@
                             40.75103902
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-6",
-                "id": 17,
+                "name": "West Village-6",
                 "index": "89f05ab6ed3ffff",
+                "id": 17,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -782,19 +782,19 @@
                             40.761101978
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Midtown-1",
-                "id": 18,
                 "index": "89f05ab41b3ffff",
+                "id": 18,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -826,19 +826,19 @@
                             40.765148986
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Theater District-1",
-                "id": 19,
                 "index": "89f05ab45afffff",
+                "id": 19,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -870,19 +870,19 @@
                             40.78623651
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-4",
-                "id": 20,
                 "index": "89f05ab4e9bffff",
+                "id": 20,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -914,19 +914,19 @@
                             40.808404577
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-1",
-                "id": 21,
                 "index": "89f05ab4147ffff",
+                "id": 21,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -958,19 +958,19 @@
                             40.825667747
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-1",
-                "id": 22,
                 "index": "89f05ab43afffff",
+                "id": 22,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1002,19 +1002,19 @@
                             40.746193844
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-2",
-                "id": 23,
                 "index": "89f05ab6e6bffff",
+                "id": 23,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1046,19 +1046,19 @@
                             40.709159147
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-7",
-                "id": 24,
+                "name": "Ellis Island-4",
                 "index": "89f05ab6537ffff",
+                "id": 24,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1090,19 +1090,19 @@
                             40.780842144
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-1",
-                "id": 25,
                 "index": "89f05ab418fffff",
+                "id": 25,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1134,19 +1134,19 @@
                             40.874836136
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-2",
-                "id": 26,
                 "index": "89f05ab59cbffff",
+                "id": 26,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1178,19 +1178,19 @@
                             40.860954267
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-3",
-                "id": 27,
                 "index": "89f05ab5dc7ffff",
+                "id": 27,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1222,19 +1222,19 @@
                             40.719346959
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Civic Center-1",
-                "id": 28,
                 "index": "89f05ab6e17ffff",
+                "id": 28,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1266,19 +1266,19 @@
                             40.804319869
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-1",
-                "id": 29,
                 "index": "89f05ab4ecfffff",
+                "id": 29,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1310,19 +1310,19 @@
                             40.78409517
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-2",
-                "id": 30,
                 "index": "89f05ab453bffff",
+                "id": 30,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1354,19 +1354,19 @@
                             40.826488696
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-2",
-                "id": 31,
                 "index": "89f05ab43a3ffff",
+                "id": 31,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1398,19 +1398,19 @@
                             40.801397845
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-3",
-                "id": 32,
                 "index": "89f05ab41d7ffff",
+                "id": 32,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1442,19 +1442,19 @@
                             40.793245128
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-2",
-                "id": 33,
                 "index": "89f05ab4e0bffff",
+                "id": 33,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1486,19 +1486,19 @@
                             40.766770113
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Hell's Kitchen-1",
-                "id": 34,
                 "index": "89f05ab45b3ffff",
+                "id": 34,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1530,19 +1530,19 @@
                             40.813764505
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-3",
-                "id": 35,
                 "index": "89f05ab4e53ffff",
+                "id": 35,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1574,19 +1574,19 @@
                             40.723219675
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Lower East Side-1",
-                "id": 36,
                 "index": "89f05ab6a03ffff",
+                "id": 36,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1618,19 +1618,19 @@
                             40.764902178
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-8",
-                "id": 37,
+                "name": "Roosevelt Island-7",
                 "index": "89f05ab4ebbffff",
+                "id": 37,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1662,19 +1662,19 @@
                             40.823206913
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-4",
-                "id": 38,
                 "index": "89f05ab4e5bffff",
+                "id": 38,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1706,19 +1706,19 @@
                             40.773542287
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-9",
-                "id": 39,
+                "name": "Roosevelt Island-6",
                 "index": "89f05ab4e07ffff",
+                "id": 39,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1750,19 +1750,19 @@
                             40.867072526
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-3",
-                "id": 40,
                 "index": "89f05ab5d6bffff",
+                "id": 40,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1794,19 +1794,19 @@
                             40.72335929
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-10",
-                "id": 41,
+                "name": "Battery Park City-4",
                 "index": "89f05ab613bffff",
+                "id": 41,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1838,19 +1838,19 @@
                             40.821568034
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-5",
-                "id": 42,
                 "index": "89f05ab5db3ffff",
+                "id": 42,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1882,19 +1882,19 @@
                             40.843732598
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-4",
-                "id": 43,
                 "index": "89f05ab432bffff",
+                "id": 43,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1926,19 +1926,19 @@
                             40.725624729
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Lower East Side-2",
-                "id": 44,
                 "index": "89f05ab6a9bffff",
+                "id": 44,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -1970,19 +1970,19 @@
                             40.769756717
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-5",
-                "id": 45,
                 "index": "89f05ab41abffff",
+                "id": 45,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2014,19 +2014,19 @@
                             40.75706325
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-11",
-                "id": 46,
+                "name": "Roosevelt Island-9",
                 "index": "89f05ab4c5bffff",
+                "id": 46,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2058,19 +2058,19 @@
                             40.755672535
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-3",
-                "id": 47,
                 "index": "89f05ab45a7ffff",
+                "id": 47,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2102,19 +2102,19 @@
                             40.820749096
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-3",
-                "id": 48,
                 "index": "89f05ab5da3ffff",
+                "id": 48,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2146,19 +2146,19 @@
                             40.760528813
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-12",
-                "id": 49,
+                "name": "Chelsea-14",
                 "index": "89f05ab6edbffff",
+                "id": 49,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2190,19 +2190,19 @@
                             40.721753368
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Tribeca-2",
-                "id": 50,
                 "index": "89f05ab6e93ffff",
+                "id": 50,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2234,19 +2234,19 @@
                             40.781654901
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-2",
-                "id": 51,
                 "index": "89f05ab4183ffff",
+                "id": 51,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2278,19 +2278,19 @@
                             40.782467991
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-4",
-                "id": 52,
                 "index": "89f05ab4193ffff",
+                "id": 52,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2322,19 +2322,19 @@
                             40.791934036
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-5",
-                "id": 53,
                 "index": "89f05ab419bffff",
+                "id": 53,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2366,19 +2366,19 @@
                             40.698843327
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-13",
-                "id": 54,
+                "name": "Ellis Island-2",
                 "index": "89f058792cbffff",
+                "id": 54,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2410,19 +2410,19 @@
                             40.690124299
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-14",
-                "id": 55,
+                "name": "Liberty Island-1",
                 "index": "89f058792d3ffff",
+                "id": 55,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2454,19 +2454,19 @@
                             40.883421624
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Marble Hill-1",
-                "id": 56,
                 "index": "89f05ab595bffff",
+                "id": 56,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2498,19 +2498,19 @@
                             40.775162155
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-6",
-                "id": 57,
                 "index": "89f05ab4e8fffff",
+                "id": 57,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2542,19 +2542,19 @@
                             40.724822716
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Lower East Side-3",
-                "id": 58,
                 "index": "89f05ab6a8bffff",
+                "id": 58,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2586,19 +2586,19 @@
                             40.862609144
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-15",
-                "id": 59,
+                "name": "Washington Heights-15",
                 "index": "89f05ab436fffff",
+                "id": 59,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2630,19 +2630,19 @@
                             40.866245119
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-4",
-                "id": 60,
                 "index": "89f05ab59d3ffff",
+                "id": 60,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2674,19 +2674,19 @@
                             40.858474486
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-5",
-                "id": 61,
                 "index": "89f05ab5d73ffff",
+                "id": 61,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2718,19 +2718,19 @@
                             40.857648567
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-16",
-                "id": 62,
+                "name": "Washington Heights-17",
                 "index": "89f05ab5d63ffff",
+                "id": 62,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2762,19 +2762,19 @@
                             40.71374351
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-17",
-                "id": 63,
+                "name": "Lower East Side-8",
                 "index": "89f05ab6a17ffff",
+                "id": 63,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2806,19 +2806,19 @@
                             40.776248019
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Hell's Kitchen-2",
-                "id": 64,
                 "index": "89f05ab45bbffff",
+                "id": 64,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2850,19 +2850,19 @@
                             40.729639734
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "SoHo-1",
-                "id": 65,
                 "index": "89f05ab6e13ffff",
+                "id": 65,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2894,19 +2894,19 @@
                             40.742353817
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-18",
-                "id": 66,
+                "name": "West Village-4",
                 "index": "89f05ab6163ffff",
+                "id": 66,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2938,19 +2938,19 @@
                             40.815401057
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-6",
-                "id": 67,
                 "index": "89f05ab4edbffff",
+                "id": 67,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2982,19 +2982,19 @@
                             40.795362844
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-19",
-                "id": 68,
+                "name": "Randall's Island-14",
                 "index": "89f05ab4a6bffff",
+                "id": 68,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3026,19 +3026,19 @@
                             40.800243504
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-4",
-                "id": 69,
                 "index": "89f05ab4ad3ffff",
+                "id": 69,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3070,19 +3070,19 @@
                             40.831825654
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-7",
-                "id": 70,
                 "index": "89f05ab5d87ffff",
+                "id": 70,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3114,19 +3114,19 @@
                             40.744581434
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Gramercy-1",
-                "id": 71,
                 "index": "89f05ab6ac3ffff",
+                "id": 71,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3158,19 +3158,19 @@
                             40.71294433
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-20",
-                "id": 72,
+                "name": "Lower East Side-7",
                 "index": "89f05ab6a07ffff",
+                "id": 72,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3202,19 +3202,19 @@
                             40.792749303
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-6",
-                "id": 73,
                 "index": "89f05ab4567ffff",
+                "id": 73,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3246,19 +3246,19 @@
                             40.701958525
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-21",
-                "id": 74,
+                "name": "Financial District-6",
                 "index": "89f05ab6c5bffff",
+                "id": 74,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3290,19 +3290,19 @@
                             40.824026856
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-8",
-                "id": 75,
                 "index": "89f05ab4327ffff",
+                "id": 75,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3334,19 +3334,19 @@
                             40.724021031
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Lower East Side-4",
-                "id": 76,
                 "index": "89f05ab6a13ffff",
+                "id": 76,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3378,19 +3378,19 @@
                             40.751634755
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Murray Hill-2",
-                "id": 77,
                 "index": "89f05ab6a4fffff",
+                "id": 77,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3422,19 +3422,19 @@
                             40.709055976
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-22",
-                "id": 78,
+                "name": "Financial District-5",
                 "index": "89f05ab6eabffff",
+                "id": 78,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3466,19 +3466,19 @@
                             40.806416555
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-23",
-                "id": 79,
+                "name": "Randall's Island-10",
                 "index": "89f05ab4a4fffff",
+                "id": 79,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3510,19 +3510,19 @@
                             40.713057386
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Battery Park City-2",
-                "id": 80,
                 "index": "89f05ab6123ffff",
+                "id": 80,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3554,19 +3554,19 @@
                             40.842908653
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-6",
-                "id": 81,
                 "index": "89f05ab5d93ffff",
+                "id": 81,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3598,19 +3598,19 @@
                             40.747807577
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-4",
-                "id": 82,
                 "index": "89f05ab6e47ffff",
+                "id": 82,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3642,19 +3642,19 @@
                             40.741546981
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-24",
-                "id": 83,
+                "name": "West Village-5",
                 "index": "89f05ab616fffff",
+                "id": 83,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3686,19 +3686,19 @@
                             40.742970346
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Stuyvesant Town-1",
-                "id": 84,
                 "index": "89f05ab6a57ffff",
+                "id": 84,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3730,19 +3730,19 @@
                             40.856822985
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-25",
-                "id": 85,
+                "name": "Washington Heights-18",
                 "index": "89f05ab5d6fffff",
+                "id": 85,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3774,19 +3774,19 @@
                             40.702757279
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-26",
-                "id": 86,
+                "name": "Battery Park City-3",
                 "index": "89f05ab6127ffff",
+                "id": 86,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3818,19 +3818,19 @@
                             40.878983993
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-27",
-                "id": 87,
+                "name": "Inwood-19",
                 "index": "89f05ab5d43ffff",
+                "id": 87,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3862,19 +3862,19 @@
                             40.726427071
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Lower East Side-5",
-                "id": 88,
                 "index": "89f05ab6e67ffff",
+                "id": 88,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3906,19 +3906,19 @@
                             40.831004549
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-9",
-                "id": 89,
                 "index": "89f05ab5dbbffff",
+                "id": 89,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3950,19 +3950,19 @@
                             40.836759334
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-28",
-                "id": 90,
+                "name": "Harlem-21",
                 "index": "89f05ab43bbffff",
+                "id": 90,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -3994,19 +3994,19 @@
                             40.824847134
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-10",
-                "id": 91,
                 "index": "89f05ab4337ffff",
+                "id": 91,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4038,19 +4038,19 @@
                             40.768137212
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-7",
-                "id": 92,
                 "index": "89f05ab4123ffff",
+                "id": 92,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4082,19 +4082,19 @@
                             40.860127336
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-7",
-                "id": 93,
                 "index": "89f05ab5d1bffff",
+                "id": 93,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4126,19 +4126,19 @@
                             40.703556362
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-29",
-                "id": 94,
+                "name": "Governors Island-8",
                 "index": "89f05ab6137ffff",
+                "id": 94,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4170,19 +4170,19 @@
                             40.78490926
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-7",
-                "id": 95,
                 "index": "89f05ab4507ffff",
+                "id": 95,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4214,19 +4214,19 @@
                             40.808047099
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Randall's Island-1",
-                "id": 96,
                 "index": "89f05ab4a53ffff",
+                "id": 96,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4258,19 +4258,19 @@
                             40.794873004
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-5",
-                "id": 97,
                 "index": "89f05ab4ec7ffff",
+                "id": 97,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4302,19 +4302,19 @@
                             40.794380839
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-30",
-                "id": 98,
+                "name": "Upper West Side-20",
                 "index": "89f05ab450fffff",
+                "id": 98,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4346,19 +4346,19 @@
                             40.827309982
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-31",
-                "id": 99,
+                "name": "Harlem-24",
                 "index": "89f05ab43b3ffff",
+                "id": 99,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4390,19 +4390,19 @@
                             40.720950902
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Tribeca-3",
-                "id": 100,
                 "index": "89f05ab6e83ffff",
+                "id": 100,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4434,19 +4434,19 @@
                             40.710655554
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Financial District-1",
-                "id": 101,
                 "index": "89f05ab6e87ffff",
+                "id": 101,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4478,19 +4478,19 @@
                             40.790805808
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Randall's Island-2",
-                "id": 102,
                 "index": "89f05ab4e6fffff",
+                "id": 102,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4522,19 +4522,19 @@
                             40.720148766
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Civic Center-2",
-                "id": 103,
                 "index": "89f05ab6e8fffff",
+                "id": 103,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4566,19 +4566,19 @@
                             40.787558029
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-32",
-                "id": 104,
+                "name": "Randall's Island-16",
                 "index": "89f05ab4a0bffff",
+                "id": 104,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4610,19 +4610,19 @@
                             40.869556777
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-5",
-                "id": 105,
                 "index": "89f05ab5d57ffff",
+                "id": 105,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4654,19 +4654,19 @@
                             40.812946731
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-11",
-                "id": 106,
                 "index": "89f05ab4e43ffff",
+                "id": 106,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4698,19 +4698,19 @@
                             40.728032744
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "SoHo-2",
-                "id": 107,
                 "index": "89f05ab6e0fffff",
+                "id": 107,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4742,19 +4742,19 @@
                             40.713858655
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-33",
-                "id": 108,
+                "name": "Battery Park City-5",
                 "index": "89f05ab6133ffff",
+                "id": 108,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4786,19 +4786,19 @@
                             40.787862709
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-3",
-                "id": 109,
                 "index": "89f05ab4177ffff",
+                "id": 109,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4830,19 +4830,19 @@
                             40.775435442
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Hell's Kitchen-3",
-                "id": 110,
                 "index": "89f05ab45abffff",
+                "id": 110,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4874,19 +4874,19 @@
                             40.877323834
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-6",
-                "id": 111,
                 "index": "89f05ab58b7ffff",
+                "id": 111,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4918,19 +4918,19 @@
                             40.777594443
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-8",
-                "id": 112,
                 "index": "89f05ab412bffff",
+                "id": 112,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -4962,19 +4962,19 @@
                             40.727229743
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Nolita-1",
-                "id": 113,
                 "index": "89f05ab6e77ffff",
+                "id": 113,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5006,19 +5006,19 @@
                             40.794058899
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-6",
-                "id": 114,
                 "index": "89f05ab4e1bffff",
+                "id": 114,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5050,19 +5050,19 @@
                             40.822387306
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-12",
-                "id": 115,
                 "index": "89f05ab4e4bffff",
+                "id": 115,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5094,19 +5094,19 @@
                             40.731088185
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-34",
-                "id": 116,
+                "name": "Stuyvesant Town-2",
                 "index": "89f05ab6a63ffff",
+                "id": 116,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5138,19 +5138,19 @@
                             40.774623198
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Hell's Kitchen-4",
-                "id": 117,
                 "index": "89f05ab4533ffff",
+                "id": 117,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5182,19 +5182,19 @@
                             40.695648523
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-35",
-                "id": 118,
+                "name": "Governors Island-7",
                 "index": "89f05ab61b7ffff",
+                "id": 118,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5226,19 +5226,19 @@
                             40.803503929
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-7",
-                "id": 119,
                 "index": "89f05ab4e57ffff",
+                "id": 119,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5270,19 +5270,19 @@
                             40.833468869
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-13",
-                "id": 120,
                 "index": "89f05ab432fffff",
+                "id": 120,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5314,19 +5314,19 @@
                             40.87400758
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-7",
-                "id": 121,
                 "index": "89f05ab5953ffff",
+                "id": 121,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5358,19 +5358,19 @@
                             40.785423909
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-9",
-                "id": 122,
                 "index": "89f05ab4e8bffff",
+                "id": 122,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5402,19 +5402,19 @@
                             40.735908392
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Village-1",
-                "id": 123,
                 "index": "89f05ab6e6fffff",
+                "id": 123,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5446,19 +5446,19 @@
                             40.796175457
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-36",
-                "id": 124,
+                "name": "Randall's Island-13",
                 "index": "89f05ab4a7bffff",
+                "id": 124,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5490,19 +5490,19 @@
                             40.78949024
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-4",
-                "id": 125,
                 "index": "89f05ab4103ffff",
+                "id": 125,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5534,19 +5534,19 @@
                             40.772999708
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Midtown-2",
-                "id": 126,
                 "index": "89f05ab452fffff",
+                "id": 126,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5578,19 +5578,19 @@
                             40.802214955
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-37",
-                "id": 127,
+                "name": "Upper West Side-22",
                 "index": "89f05ab456fffff",
+                "id": 127,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5622,19 +5622,19 @@
                             40.748614941
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-5",
-                "id": 128,
                 "index": "89f05ab6e57ffff",
+                "id": 128,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5666,19 +5666,19 @@
                             40.782176828
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-38",
-                "id": 129,
+                "name": "Roosevelt Island-4",
                 "index": "89f05ab4e77ffff",
+                "id": 129,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5710,19 +5710,19 @@
                             40.775972586
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-10",
-                "id": 130,
                 "index": "89f05ab4e83ffff",
+                "id": 130,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5754,19 +5754,19 @@
                             40.754864317
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Midtown-3",
-                "id": 131,
                 "index": "89f05ab6adbffff",
+                "id": 131,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5798,19 +5798,19 @@
                             40.785723684
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-39",
-                "id": 132,
+                "name": "Upper West Side-19",
                 "index": "89f05ab4517ffff",
+                "id": 132,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5842,19 +5842,19 @@
                             40.712256447
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Financial District-2",
-                "id": 133,
                 "index": "89f05ab612fffff",
+                "id": 133,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5886,19 +5886,19 @@
                             40.692458969
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-40",
-                "id": 134,
+                "name": "Governors Island-3",
                 "index": "89f05ab6c53ffff",
+                "id": 134,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5930,19 +5930,19 @@
                             40.809678976
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-8",
-                "id": 135,
                 "index": "89f05ab4adbffff",
+                "id": 135,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -5974,19 +5974,19 @@
                             40.717744331
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Two Bridges-1",
-                "id": 136,
                 "index": "89f05ab6e3bffff",
+                "id": 136,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6018,19 +6018,19 @@
                             40.849046475
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-41",
-                "id": 137,
+                "name": "Washington Heights-19",
                 "index": "89f05ab5d0fffff",
+                "id": 137,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6062,19 +6062,19 @@
                             40.747000545
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-6",
-                "id": 138,
                 "index": "89f05ab6e7bffff",
+                "id": 138,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6106,19 +6106,19 @@
                             40.722418647
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Lower East Side-6",
-                "id": 139,
                 "index": "89f05ab6a0fffff",
+                "id": 139,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6150,19 +6150,19 @@
                             40.766519033
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-42",
-                "id": 140,
+                "name": "Roosevelt Island-8",
                 "index": "89f05ab4e97ffff",
+                "id": 140,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6194,19 +6194,19 @@
                             40.791618582
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-43",
-                "id": 141,
+                "name": "East Harlem-17",
                 "index": "89f05ab4e63ffff",
+                "id": 141,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6238,19 +6238,19 @@
                             40.749422635
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-7",
-                "id": 142,
                 "index": "89f05ab6ecfffff",
+                "id": 142,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6282,19 +6282,19 @@
                             40.887576908
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-44",
-                "id": 143,
+                "name": "Inwood-12",
                 "index": "89f05ab58b3ffff",
+                "id": 143,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6326,19 +6326,19 @@
                             40.77706093
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-45",
-                "id": 144,
+                "name": "Hell's Kitchen-12",
                 "index": "89f05ab4587ffff",
+                "id": 144,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6370,19 +6370,19 @@
                             40.752441649
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Murray Hill-3",
-                "id": 145,
                 "index": "89f05ab6a43ffff",
+                "id": 145,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6414,19 +6414,19 @@
                             40.771377548
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-5",
-                "id": 146,
                 "index": "89f05ab4187ffff",
+                "id": 146,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6458,19 +6458,19 @@
                             40.819498299
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-46",
-                "id": 147,
+                "name": "Morningside Heights-5",
                 "index": "89f05ab4153ffff",
+                "id": 147,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6502,19 +6502,19 @@
                             40.798948525
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-8",
-                "id": 148,
                 "index": "89f05ab410bffff",
+                "id": 148,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6546,19 +6546,19 @@
                             40.760293571
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Midtown-4",
-                "id": 149,
                 "index": "89f05ab41a3ffff",
+                "id": 149,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6590,19 +6590,19 @@
                             40.716943511
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Two Bridges-2",
-                "id": 150,
                 "index": "89f05ab6e2bffff",
+                "id": 150,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6634,19 +6634,19 @@
                             40.797801679
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Randall's Island-3",
-                "id": 151,
                 "index": "89f05ab4a57ffff",
+                "id": 151,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6678,19 +6678,19 @@
                             40.759485495
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Midtown-5",
-                "id": 152,
                 "index": "89f05ab41afffff",
+                "id": 152,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6722,19 +6722,19 @@
                             40.768946799
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-11",
-                "id": 153,
                 "index": "89f05ab4133ffff",
+                "id": 153,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6766,19 +6766,19 @@
                             40.734300339
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Village-2",
-                "id": 154,
                 "index": "89f05ab6ac7ffff",
+                "id": 154,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6810,19 +6810,19 @@
                             40.685343264
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-47",
-                "id": 155,
+                "name": "Governors Island-6",
                 "index": "89f0587926bffff",
+                "id": 155,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6854,19 +6854,19 @@
                             40.79942923
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-48",
-                "id": 156,
+                "name": "Randall's Island-12",
                 "index": "89f05ab4ac3ffff",
+                "id": 156,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6898,19 +6898,19 @@
                             40.759718603
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-8",
-                "id": 157,
                 "index": "89f05ab6ecbffff",
+                "id": 157,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6942,19 +6942,19 @@
                             40.808862871
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-49",
-                "id": 158,
+                "name": "Randall's Island-8",
                 "index": "89f05ab4acbffff",
+                "id": 158,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -6986,19 +6986,19 @@
                             40.809222523
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-9",
-                "id": 159,
                 "index": "89f05ab4157ffff",
+                "id": 159,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7030,19 +7030,19 @@
                             40.78002972
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-6",
-                "id": 160,
                 "index": "89f05ab4117ffff",
+                "id": 160,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7074,19 +7074,19 @@
                             40.861781537
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-50",
-                "id": 161,
+                "name": "Washington Heights-16",
                 "index": "89f05ab5dd7ffff",
+                "id": 161,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7118,19 +7118,19 @@
                             40.735104201
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Village-3",
-                "id": 162,
                 "index": "89f05ab6ad7ffff",
+                "id": 162,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7162,19 +7162,19 @@
                             40.776783349
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-12",
-                "id": 163,
                 "index": "89f05ab4e93ffff",
+                "id": 163,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7206,19 +7206,19 @@
                             40.711455836
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Financial District-3",
-                "id": 164,
                 "index": "89f05ab6e97ffff",
+                "id": 164,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7250,19 +7250,19 @@
                             40.811312186
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-9",
-                "id": 165,
                 "index": "89f05ab5db7ffff",
+                "id": 165,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7294,19 +7294,19 @@
                             40.867900272
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-8",
-                "id": 166,
                 "index": "89f05ab5d7bffff",
+                "id": 166,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7338,19 +7338,19 @@
                             40.783799705
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-13",
-                "id": 167,
                 "index": "89f05ab4e03ffff",
+                "id": 167,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7382,19 +7382,19 @@
                             40.85152077
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-8",
-                "id": 168,
                 "index": "89f05ab5d8bffff",
+                "id": 168,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7426,19 +7426,19 @@
                             40.842085045
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-9",
-                "id": 169,
                 "index": "89f05ab5d83ffff",
+                "id": 169,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7470,19 +7470,19 @@
                             40.789993365
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Randall's Island-4",
-                "id": 170,
                 "index": "89f05ab4ad7ffff",
+                "id": 170,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7514,19 +7514,19 @@
                             40.797317316
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-7",
-                "id": 171,
                 "index": "89f05ab4163ffff",
+                "id": 171,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7558,19 +7558,19 @@
                             40.721617948
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-51",
-                "id": 172,
+                "name": "Stuyvesant Town-320",
                 "index": "89f05ab6a77ffff",
+                "id": 172,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7602,19 +7602,19 @@
                             40.834290981
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-14",
-                "id": 173,
                 "index": "89f05ab4323ffff",
+                "id": 173,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7646,19 +7646,19 @@
                             40.801058111
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-10",
-                "id": 174,
                 "index": "89f05ab4e6bffff",
+                "id": 174,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7690,19 +7690,19 @@
                             40.736712914
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Greenwich Village-1",
-                "id": 175,
                 "index": "89f05ab6e63ffff",
+                "id": 175,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7734,19 +7734,19 @@
                             40.772732849
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-52",
-                "id": 176,
+                "name": "Roosevelt Island-5",
                 "index": "89f05ab4e3bffff",
+                "id": 176,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7778,19 +7778,19 @@
                             40.739128459
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "West Village-2",
-                "id": 177,
                 "index": "89f05ab6e1bffff",
+                "id": 177,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7822,19 +7822,19 @@
                             40.75405643
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Midtown-6",
-                "id": 178,
                 "index": "89f05ab6acbffff",
+                "id": 178,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7866,19 +7866,19 @@
                             40.732052695
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-53",
-                "id": 179,
+                "name": "Tribeca-4",
                 "index": "89f05ab6167ffff",
+                "id": 179,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7910,19 +7910,19 @@
                             40.732693604
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Village-4",
-                "id": 180,
                 "index": "89f05ab6a0bffff",
+                "id": 180,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7954,19 +7954,19 @@
                             40.7692043
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-54",
-                "id": 181,
+                "name": "Hell's Kitchen-10",
                 "index": "89f05ab6327ffff",
+                "id": 181,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -7998,19 +7998,19 @@
                             40.830183781
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-55",
-                "id": 182,
+                "name": "Harlem-23",
                 "index": "89f05ab5dabffff",
+                "id": 182,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8042,19 +8042,19 @@
                             40.870385537
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-56",
-                "id": 183,
+                "name": "Inwood-20",
                 "index": "89f05ab5dcfffff",
+                "id": 183,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8086,19 +8086,19 @@
                             40.782988101
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-57",
-                "id": 184,
+                "name": "Roosevelt Island-3",
                 "index": "89f05ab4e0fffff",
+                "id": 184,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8130,19 +8130,19 @@
                             40.709855601
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Financial District-4",
-                "id": 185,
                 "index": "89f05ab6ebbffff",
+                "id": 185,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8174,19 +8174,19 @@
                             40.790304505
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-10",
-                "id": 186,
                 "index": "89f05ab4113ffff",
+                "id": 186,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8218,19 +8218,19 @@
                             40.886745173
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-58",
-                "id": 187,
+                "name": "Inwood-13",
                 "index": "89f05ab58a3ffff",
+                "id": 187,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8262,19 +8262,19 @@
                             40.814582614
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-15",
-                "id": 188,
                 "index": "89f05ab4ecbffff",
+                "id": 188,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8306,19 +8306,19 @@
                             40.828131603
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-59",
-                "id": 189,
+                "name": "Morningside Heights-6",
                 "index": "89f05ab414bffff",
+                "id": 189,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8350,19 +8350,19 @@
                             40.865418049
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-60",
-                "id": 190,
+                "name": "Inwood-18",
                 "index": "89f05ab59c3ffff",
+                "id": 190,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8394,19 +8394,19 @@
                             40.835113429
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-16",
-                "id": 191,
                 "index": "89f05ab4333ffff",
+                "id": 191,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8438,19 +8438,19 @@
                             40.852346209
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-10",
-                "id": 192,
                 "index": "89f05ab5d9bffff",
+                "id": 192,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8482,19 +8482,19 @@
                             40.700442702
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-61",
-                "id": 193,
+                "name": "Liberty Island-3",
                 "index": "89f05ab65a7ffff",
+                "id": 193,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8526,19 +8526,19 @@
                             40.796502212
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-8",
-                "id": 194,
                 "index": "89f05ab416fffff",
+                "id": 194,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8570,19 +8570,19 @@
                             40.69405309
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Governors Island-1",
-                "id": 195,
                 "index": "89f05ab6cdbffff",
+                "id": 195,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8614,19 +8614,19 @@
                             40.799764631
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-11",
-                "id": 196,
                 "index": "89f05ab411bffff",
+                "id": 196,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8658,19 +8658,19 @@
                             40.708357762
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-62",
-                "id": 197,
+                "name": "Ellis Island-3",
                 "index": "89f05ab6527ffff",
+                "id": 197,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8702,19 +8702,19 @@
                             40.728836074
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "SoHo-3",
-                "id": 198,
                 "index": "89f05ab6e03ffff",
+                "id": 198,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8746,19 +8746,19 @@
                             40.788369476
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-63",
-                "id": 199,
+                "name": "Randall's Island-15",
                 "index": "89f05ab4a1bffff",
+                "id": 199,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8790,19 +8790,19 @@
                             40.80187305
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-11",
-                "id": 200,
                 "index": "89f05ab4e7bffff",
+                "id": 200,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8834,19 +8834,19 @@
                             40.737517765
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Greenwich Village-2",
-                "id": 201,
                 "index": "89f05ab6e73ffff",
+                "id": 201,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8878,19 +8878,19 @@
                             40.788676308
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-9",
-                "id": 202,
                 "index": "89f05ab410fffff",
+                "id": 202,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8922,19 +8922,19 @@
                             40.810040803
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-12",
-                "id": 203,
                 "index": "89f05ab41cfffff",
+                "id": 203,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -8966,19 +8966,19 @@
                             40.884252002
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-64",
-                "id": 204,
+                "name": "Inwood-16",
                 "index": "89f05ab5827ffff",
+                "id": 204,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9010,19 +9010,19 @@
                             40.756481085
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-9",
-                "id": 205,
                 "index": "89f05ab45b7ffff",
+                "id": 205,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9054,19 +9054,19 @@
                             40.774352055
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-65",
-                "id": 206,
+                "name": "Roosevelt Island-10",
                 "index": "89f05ab4e17ffff",
+                "id": 206,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9098,19 +9098,19 @@
                             40.770016362
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-66",
-                "id": 207,
+                "name": "Hell's Kitchen-9",
                 "index": "89f05ab6337ffff",
+                "id": 207,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9142,19 +9142,19 @@
                             40.768392571
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Hell's Kitchen-5",
-                "id": 208,
                 "index": "89f05ab6e5bffff",
+                "id": 208,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9186,19 +9186,19 @@
                             40.773811286
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Hell's Kitchen-6",
-                "id": 209,
                 "index": "89f05ab4523ffff",
+                "id": 209,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9230,19 +9230,19 @@
                             40.803032399
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-67",
-                "id": 210,
+                "name": "Upper West Side-21",
                 "index": "89f05ab4563ffff",
+                "id": 210,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9274,19 +9274,19 @@
                             40.850695668
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-11",
-                "id": 211,
                 "index": "89f05ab5d13ffff",
+                "id": 211,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9318,19 +9318,19 @@
                             40.885913777
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-68",
-                "id": 212,
+                "name": "Inwood-14",
                 "index": "89f05ab58afffff",
+                "id": 212,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9362,19 +9362,19 @@
                             40.730443724
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "SoHo-4",
-                "id": 213,
                 "index": "89f05ab6e8bffff",
+                "id": 213,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9406,19 +9406,19 @@
                             40.791119104
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-13",
-                "id": 214,
                 "index": "89f05ab418bffff",
+                "id": 214,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9450,19 +9450,19 @@
                             40.805601782
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-69",
-                "id": 215,
+                "name": "Randall's Island-11",
                 "index": "89f05ab59b7ffff",
+                "id": 215,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9494,19 +9494,19 @@
                             40.832647093
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-17",
-                "id": 216,
                 "index": "89f05ab5d97ffff",
+                "id": 216,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9538,19 +9538,19 @@
                             40.777874175
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-70",
-                "id": 217,
+                "name": "Hell's Kitchen-11",
                 "index": "89f05ab4597ffff",
+                "id": 217,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9582,19 +9582,19 @@
                             40.868728355
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-9",
-                "id": 218,
                 "index": "89f05ab5d47ffff",
+                "id": 218,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9626,19 +9626,19 @@
                             40.816219835
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Morningside Heights-1",
-                "id": 219,
                 "index": "89f05ab43a7ffff",
+                "id": 219,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9670,19 +9670,19 @@
                             40.767581176
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Hell's Kitchen-7",
-                "id": 220,
                 "index": "89f05ab6e4bffff",
+                "id": 220,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9714,19 +9714,19 @@
                             40.792431689
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-12",
-                "id": 221,
                 "index": "89f05ab4e73ffff",
+                "id": 221,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9758,19 +9758,19 @@
                             40.795687441
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-13",
-                "id": 222,
                 "index": "89f05ab4ed7ffff",
+                "id": 222,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9802,19 +9802,19 @@
                             40.761910716
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Midtown-7",
-                "id": 223,
                 "index": "89f05ab6a4bffff",
+                "id": 223,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9846,19 +9846,19 @@
                             40.750828191
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-71",
-                "id": 224,
+                "name": "Midtown-13",
                 "index": "89f05ab41b7ffff",
+                "id": 224,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9890,19 +9890,19 @@
                             40.807231661
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-72",
-                "id": 225,
+                "name": "Randall's Island-9",
                 "index": "89f05ab4a43ffff",
+                "id": 225,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9934,19 +9934,19 @@
                             40.75809918
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-10",
-                "id": 226,
                 "index": "89f05ab6e43ffff",
+                "id": 226,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -9978,19 +9978,19 @@
                             40.789181255
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Randall's Island-5",
-                "id": 227,
                 "index": "89f05ab4ac7ffff",
+                "id": 227,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10022,19 +10022,19 @@
                             40.835936213
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-73",
-                "id": 228,
+                "name": "Harlem-22",
                 "index": "89f05ab43abffff",
+                "id": 228,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10066,19 +10066,19 @@
                             40.764338921
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Theater District-2",
-                "id": 229,
                 "index": "89f05ab4537ffff",
+                "id": 229,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10110,19 +10110,19 @@
                             40.76571044
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Roosevelt Island-1",
-                "id": 230,
                 "index": "89f05ab4e87ffff",
+                "id": 230,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10154,19 +10154,19 @@
                             40.684547572
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-74",
-                "id": 231,
+                "name": "Governors Island-5",
                 "index": "89f05ab6cd3ffff",
+                "id": 231,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10198,19 +10198,19 @@
                             40.88508272
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-75",
-                "id": 232,
+                "name": "Inwood-15",
                 "index": "89f05ab5837ffff",
+                "id": 232,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10242,19 +10242,19 @@
                             40.84455688
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-76",
-                "id": 233,
+                "name": "Harlem-20",
                 "index": "89f05ab433bffff",
+                "id": 233,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10286,19 +10286,19 @@
                             40.817858396
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Morningside Heights-2",
-                "id": 234,
                 "index": "89f05ab414fffff",
+                "id": 234,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10330,19 +10330,19 @@
                             40.87566503
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-10",
-                "id": 235,
                 "index": "89f05ab59dbffff",
+                "id": 235,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10374,19 +10374,19 @@
                             40.81867818
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Morningside Heights-3",
-                "id": 236,
                 "index": "89f05ab4143ffff",
+                "id": 236,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10418,19 +10418,19 @@
                             40.807586967
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-14",
-                "id": 237,
                 "index": "89f05ab417bffff",
+                "id": 237,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10462,19 +10462,19 @@
                             40.758908725
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-11",
-                "id": 238,
                 "index": "89f05ab6e53ffff",
+                "id": 238,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10506,19 +10506,19 @@
                             40.806769691
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-10",
-                "id": 239,
                 "index": "89f05ab416bffff",
+                "id": 239,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10550,19 +10550,19 @@
                             40.812129292
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-14",
-                "id": 240,
                 "index": "89f05ab4e4fffff",
+                "id": 240,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10594,19 +10594,19 @@
                             40.690922286
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-77",
-                "id": 241,
+                "name": "Liberty Island-2",
                 "index": "89f0587966bffff",
+                "id": 241,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10638,19 +10638,19 @@
                             40.694850643
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Governors Island-2",
-                "id": 242,
                 "index": "89f05ab61a7ffff",
+                "id": 242,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10682,19 +10682,19 @@
                             40.817038948
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Morningside Heights-4",
-                "id": 243,
                 "index": "89f05ab43b7ffff",
+                "id": 243,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10726,19 +10726,19 @@
                             40.715342854
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-78",
-                "id": 244,
+                "name": "Lower East Side-10",
                 "index": "89f05ab6a83ffff",
+                "id": 244,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10770,19 +10770,19 @@
                             40.786538442
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-79",
-                "id": 245,
+                "name": "Upper West Side-18",
                 "index": "89f05ab458fffff",
+                "id": 245,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10814,19 +10814,19 @@
                             40.859300742
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-12",
-                "id": 246,
                 "index": "89f05ab5d0bffff",
+                "id": 246,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10858,19 +10858,19 @@
                             40.757289966
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Chelsea-12",
-                "id": 247,
                 "index": "89f05ab6e4fffff",
+                "id": 247,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10902,19 +10902,19 @@
                             40.810495414
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-15",
-                "id": 248,
                 "index": "89f05ab5da7ffff",
+                "id": 248,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10946,19 +10946,19 @@
                             40.761339357
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-80",
-                "id": 249,
+                "name": "Chelsea-13",
                 "index": "89f05ab63a7ffff",
+                "id": 249,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -10990,19 +10990,19 @@
                             40.882591583
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Marble Hill-2",
-                "id": 250,
                 "index": "89f05ab594bffff",
+                "id": 250,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11034,19 +11034,19 @@
                             40.745387474
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Flatiron District-1",
-                "id": 251,
                 "index": "89f05ab6ad3ffff",
+                "id": 251,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11078,19 +11078,19 @@
                             40.787049443
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-14",
-                "id": 252,
                 "index": "89f05ab4167ffff",
+                "id": 252,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11122,19 +11122,19 @@
                             40.878153744
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Inwood-11",
-                "id": 253,
                 "index": "89f05ab5d4fffff",
+                "id": 253,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11166,19 +11166,19 @@
                             40.742165297
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Kips Bay-1",
-                "id": 254,
                 "index": "89f05ab6a47ffff",
+                "id": 254,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11210,19 +11210,19 @@
                             40.69964285
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-81",
-                "id": 255,
+                "name": "Ellis Island-1",
                 "index": "89f058792dbffff",
+                "id": 255,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11254,19 +11254,19 @@
                             40.796988402
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Randall's Island-6",
-                "id": 256,
                 "index": "89f05ab4a47ffff",
+                "id": 256,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11298,19 +11298,19 @@
                             40.733496807
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Village-5",
-                "id": 257,
                 "index": "89f05ab6a1bffff",
+                "id": 257,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11342,19 +11342,19 @@
                             40.718545481
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Civic Center-3",
-                "id": 258,
                 "index": "89f05ab6e07ffff",
+                "id": 258,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11386,19 +11386,19 @@
                             40.762719786
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Midtown-8",
-                "id": 259,
                 "index": "89f05ab6a5bffff",
+                "id": 259,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11430,19 +11430,19 @@
                             40.783281414
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-15",
-                "id": 260,
                 "index": "89f05ab452bffff",
+                "id": 260,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11474,19 +11474,19 @@
                             40.738322947
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Greenwich Village-3",
-                "id": 261,
                 "index": "89f05ab6e0bffff",
+                "id": 261,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11518,19 +11518,19 @@
                             40.740740476
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "West Village-3",
-                "id": 262,
                 "index": "89f05ab6ed7ffff",
+                "id": 262,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11562,19 +11562,19 @@
                             40.772188462
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Midtown-9",
-                "id": 263,
                 "index": "89f05ab4197ffff",
+                "id": 263,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11606,19 +11606,19 @@
                             40.716143018
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-82",
-                "id": 264,
+                "name": "Lower East Side-11",
                 "index": "89f05ab6a93ffff",
+                "id": 264,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11650,19 +11650,19 @@
                             40.805136142
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-18",
-                "id": 265,
                 "index": "89f05ab4ec3ffff",
+                "id": 265,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11694,19 +11694,19 @@
                             40.800581071
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-16",
-                "id": 266,
                 "index": "89f05ab41c7ffff",
+                "id": 266,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11738,19 +11738,19 @@
                             40.80595275
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Harlem-19",
-                "id": 267,
                 "index": "89f05ab4ed3ffff",
+                "id": 267,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11782,19 +11782,19 @@
                             40.802688323
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Harlem-16",
-                "id": 268,
                 "index": "89f05ab4e47ffff",
+                "id": 268,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11826,19 +11826,19 @@
                             40.798615288
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Randall's Island-7",
-                "id": 269,
                 "index": "89f05ab4acfffff",
+                "id": 269,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11870,19 +11870,19 @@
                             40.840438839
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-13",
-                "id": 270,
                 "index": "89f05ab5d17ffff",
+                "id": 270,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11914,19 +11914,19 @@
                             40.798132754
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Central Park-11",
-                "id": 271,
                 "index": "89f05ab4173ffff",
+                "id": 271,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -11958,19 +11958,19 @@
                             40.873179362
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-83",
-                "id": 272,
+                "name": "Inwood-17",
                 "index": "89f05ab5943ffff",
+                "id": 272,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -12002,19 +12002,19 @@
                             40.693255866
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
-                "name": "Not Found-84",
-                "id": 273,
+                "name": "Governors Island-4",
                 "index": "89f05ab6ccbffff",
+                "id": 273,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -12046,19 +12046,19 @@
                             40.853171986
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Washington Heights-14",
-                "id": 274,
                 "index": "89f05ab4367ffff",
+                "id": 274,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -12090,19 +12090,19 @@
                             40.770566966
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-15",
-                "id": 275,
                 "index": "89f05ab41bbffff",
+                "id": 275,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -12134,19 +12134,19 @@
                             40.763529188
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Midtown-10",
-                "id": 276,
                 "index": "89f05ab4527ffff",
+                "id": 276,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -12178,19 +12178,19 @@
                             40.73189073
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "East Village-6",
-                "id": 277,
                 "index": "89f05ab6a73ffff",
+                "id": 277,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -12222,19 +12222,19 @@
                             40.779217629
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper East Side-16",
-                "id": 278,
                 "index": "89f05ab4107ffff",
+                "id": 278,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -12266,19 +12266,19 @@
                             40.793564904
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Upper West Side-17",
-                "id": 279,
                 "index": "89f05ab4577ffff",
+                "id": 279,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -12310,19 +12310,19 @@
                             40.743775725
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Gramercy-2",
-                "id": 280,
                 "index": "89f05ab6acfffff",
+                "id": 280,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -12354,19 +12354,19 @@
                             40.757870335
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Roosevelt Island-2",
-                "id": 281,
                 "index": "89f05ab4127ffff",
+                "id": 281,
                 "created_at": "2018-07-15 22:39:46"
             }
         },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -12398,13 +12398,13 @@
                             40.765959384
                         ]
                     ]
-                ]
+                ],
+                "type": "Polygon"
             },
-            "type": "Feature",
             "properties": {
                 "name": "Hell's Kitchen-8",
-                "id": 282,
                 "index": "89f05ab45a3ffff",
+                "id": 282,
                 "created_at": "2018-07-15 22:39:46"
             }
         }
